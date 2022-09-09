@@ -1,0 +1,16 @@
+==========================================================================================
+XEM THÔNG TIN Ổ CỨNG
+CMD gõ: wmic diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber
+==========================================================================================
+XEM SSD HAY HDD
+Cách 1 Window + R: dfrgui
+Cách 2 Powershell: Get-PhysicalDisk
+Cách 3 cmd: PowerShell “Get-PhysicalDisk | Format-Table -AutoSize”
+Cách 4 Device Manager > Disk drive > Name > Google
+Cách 5 Taskmanager > Performance
+==========================================================================================
+XEM FULL CẤU HÌNH MÁY
+Run: msinfo32
+==========================================================================================
+==========================================================================================
+==========================================================================================
