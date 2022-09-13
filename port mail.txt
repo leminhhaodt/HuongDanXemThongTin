@@ -1,0 +1,18 @@
+port mail có ssl
+máy chủ thư đến
+- pop:995	
+- imap:993
+máy chủ thư đi
+- pop:465
+- imap:465
+
+port mail không có ssl
+máy chủ thư đến
+- pop:110	
+- imap:143
+máy chủ thư đi
+- pop:25
+- imap:25
+
+
+
